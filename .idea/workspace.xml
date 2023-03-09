@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ceedebe-8c45-4ddb-a0ba-a389e200cde9" name="变更" comment="提交" />
+    <list default="true" id="5ceedebe-8c45-4ddb-a0ba-a389e200cde9" name="变更" comment="修改本地的图片">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/shoka/layout/index.njk" beforeDir="false" afterPath="$PROJECT_DIR$/themes/shoka/layout/index.njk" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,33 +21,34 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MimKiRPWXjlhtFKw567l4RbTOY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowGit.ShowToolbar": "false",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "G:/Code/PractiseProject/LingLan/Personalblog/blog",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Code/PractiseProject/LingLan/Personalblog/blog/source/_data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Code\PractiseProject\LingLan\Personalblog\blog\source\_data" />
       <recent name="G:\Code\PractiseProject\LingLan\Personalblog\blog\source" />
       <recent name="G:\Code\PractiseProject\LingLan\Personalblog\blog" />
       <recent name="G:\Code\PractiseProject\LingLan\Personalblog\blog\themes\shoka\example\source\_posts\computer-science" />
       <recent name="G:\Code\PractiseProject\LingLan\Personalblog\blog\themes\shoka\example\source\_posts\computer-science\java" />
-      <recent name="G:\Code\PractiseProject\LingLan\Personalblog\blog\themes\shoka\example\source\_posts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Code\PractiseProject\LingLan\Personalblog\blog\source\_posts" />
@@ -115,6 +120,10 @@
       <workItem from="1678278856731" duration="1146000" />
       <workItem from="1678320780680" duration="15121000" />
       <workItem from="1678336692506" duration="835000" />
+      <workItem from="1678343845786" duration="4226000" />
+      <workItem from="1678348994101" duration="1526000" />
+      <workItem from="1678360199406" duration="1232000" />
+      <workItem from="1678362230996" duration="1260000" />
     </task>
     <task id="LOCAL-00001" summary="提交2">
       <created>1678332573344</created>
@@ -144,7 +153,42 @@
       <option name="project" value="LOCAL" />
       <updated>1678337190170</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="提交">
+      <created>1678346926678</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678346926678</updated>
+    </task>
+    <task id="LOCAL-00006" summary="图片">
+      <created>1678347695390</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678347695390</updated>
+    </task>
+    <task id="LOCAL-00007" summary="图片">
+      <created>1678348399992</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678348399992</updated>
+    </task>
+    <task id="LOCAL-00008" summary="图片">
+      <created>1678349080377</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678349080377</updated>
+    </task>
+    <task id="LOCAL-00009" summary="修改本地的图片">
+      <created>1678349257324</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678349257324</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +221,8 @@
     <MESSAGE value="修改样式提交" />
     <MESSAGE value="提交2" />
     <MESSAGE value="提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交" />
+    <MESSAGE value="图片" />
+    <MESSAGE value="修改本地的图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改本地的图片" />
   </component>
 </project>

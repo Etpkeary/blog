@@ -4,6 +4,7 @@
 {% import '_macro/segment.njk' as segment with context %}
 
 {% block content %}
+  <script src="https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
   <div class="index wrap">
     {%- if page.current == 1 %}
       {%- if page.sticky.length > 0%}
