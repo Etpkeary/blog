@@ -1,0 +1,24 @@
+# language
+zh-CN:
+  # items
+  menu:
+    links: 链接
+    travellings: 开往
+    webstack: 网址
+    friends: 友链
+  post:
+    copyright:
+      # the translation you perfer
+      author: Linglan
+en:
+  menu:
+    # items
+    menu:
+      links: Links
+      travellings: Travellings
+      webstack: Web Stack
+      friends: Friends
+  post:
+    copyright:
+      # the translation you perfer
+      author: Linglan
