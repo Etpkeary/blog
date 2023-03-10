@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ceedebe-8c45-4ddb-a0ba-a389e200cde9" name="变更" comment="修改本地的图片">
+    <list default="true" id="5ceedebe-8c45-4ddb-a0ba-a389e200cde9" name="变更" comment="修改本地的图片，添加了 Live2d">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/shoka/layout/index.njk" beforeDir="false" afterPath="$PROJECT_DIR$/themes/shoka/layout/index.njk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/shoka/_images.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/shoka/_images.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +122,8 @@
       <workItem from="1678343845786" duration="4226000" />
       <workItem from="1678348994101" duration="1526000" />
       <workItem from="1678360199406" duration="1232000" />
-      <workItem from="1678362230996" duration="1260000" />
+      <workItem from="1678362230996" duration="2081000" />
+      <workItem from="1678432651178" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="提交2">
       <created>1678332573344</created>
@@ -188,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678349257324</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="修改本地的图片，添加了 Live2d">
+      <created>1678363842323</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678363842323</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +230,7 @@
     <MESSAGE value="提交" />
     <MESSAGE value="图片" />
     <MESSAGE value="修改本地的图片" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改本地的图片" />
+    <MESSAGE value="修改本地的图片，添加了 Live2d" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改本地的图片，添加了 Live2d" />
   </component>
 </project>
